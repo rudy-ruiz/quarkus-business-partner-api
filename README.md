@@ -1,0 +1,1 @@
+# quarkus-business-partner-api
